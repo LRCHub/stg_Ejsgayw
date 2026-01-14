@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "夜空に咲く花",
+  "base_artist": "MEGARYU",
+  "createdAt": "2026-01-14T03:40:41.278344Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜空に咲く花",
+      "artist": "Megaryu",
+      "has_synced": true,
+      "path": "select/01_夜空に咲く花_Megaryu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜空に咲く花",
+      "artist": "MEGARYU",
+      "has_synced": false,
+      "path": "select/pl_01_夜空に咲く花_MEGARYU.txt"
+    }
+  ]
+}
